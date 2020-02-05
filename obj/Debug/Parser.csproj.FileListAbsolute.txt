@@ -1,0 +1,15 @@
+C:\Users\stach\Desktop\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\stach\Desktop\Parser\bin\Debug\Parser.exe.config
+C:\Users\stach\Desktop\Parser\bin\Debug\Parser.exe
+C:\Users\stach\Desktop\Parser\bin\Debug\Parser.pdb
+C:\Users\stach\Desktop\Parser\obj\Debug\Parser.exe
+C:\Users\stach\Desktop\Parser\obj\Debug\Parser.pdb
+C:\Users\Maciej\Desktop\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\Maciej\Desktop\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\Parser\obj\Debug\Parser.exe
+C:\Users\Maciej\Desktop\Parser\obj\Debug\Parser.pdb
+C:\Users\Maciej\Desktop\Parser\bin\Debug\Parser.exe.config
+C:\Users\Maciej\Desktop\Parser\bin\Debug\Parser.exe
+C:\Users\Maciej\Desktop\Parser\bin\Debug\Parser.pdb
+C:\Users\Maciej\Desktop\Parser\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Maciej\Desktop\Parser\obj\Debug\Parser.csproj.CopyComplete
